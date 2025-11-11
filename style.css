@@ -26,7 +26,7 @@ body {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  margin-top: 80px;
+  margin-top: 5px;
   margin-bottom: 0;
   padding: 50px 120px 50px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -85,7 +85,6 @@ body {
   flex-wrap: wrap;
   align-items: center;
   justify-content: center;
-  /* background: linear-gradient(135deg, #ebe7e7, #d9e4f5); */
   box-shadow: 0 1px 1px rgb(204, 195, 195);
   background-color: rgba(230, 230, 230, 0.836);
   color: #1f1f1f;
@@ -158,8 +157,6 @@ body {
   border-radius: 30px;
   font-weight: 600;
   transition: 0.3s ease;
-  box-shadow: 0 0 15px #00f2ff;
-  margin-top: 20px;
 }
 
 .buttonMe:hover {
@@ -177,7 +174,7 @@ body {
   border-radius: 30px;
   font-weight: 600;
   transition: 0.3s ease;
-  box-shadow: 0 0 15px #00f2ff;
+
   margin-top: 20px;
 }
 
@@ -200,7 +197,7 @@ body {
 }
 
 .prof-image:hover {
-  transform: translateY(-5px);
+
   box-shadow: 0 8px 20px rgba(0, 0, 0, 0.15);
 }
 
@@ -220,7 +217,6 @@ body {
   text-align: center;
   box-shadow: 0 1px 1px rgb(235, 232, 232);
   background-color: rgba(255, 249, 249, 0.3);
-  margin-top: 120px;
   justify-content: center;
   padding: 50px 120px 50px;
 }
@@ -241,7 +237,6 @@ body {
   flex-direction: row;
   align-items: center;
   gap: 40px;
-  margin-top: 20px;
   flex-wrap: wrap;
 }
 
@@ -276,7 +271,6 @@ body {
   align-items: flex-start;
   box-shadow: 0 0px 0px rgb(125, 111, 111);
   background-color: rgba(255, 255, 255, 0.3);
-  margin-top: 120px;
   width: 500rem;
   padding: 50px 120px 50px;
 }
@@ -318,7 +312,6 @@ body {
   text-align: center;
   justify-content: center;
   align-items: center;
-  margin-top: 120px;
   margin-left: 80px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
@@ -331,6 +324,7 @@ body {
   background-color: #f1f5f9;
   padding: 15px;
   border-radius: 10px;
+  margin-top: 70px;
   text-align: center;
   box-shadow: 0 2px 6px rgba(0, 0, 0, 0.1);
   transition: 0.3s ease;
@@ -353,10 +347,6 @@ body {
   padding: 10px 10px;
   gap: 50px;
   margin-top: 50px;
-}
-
-.PortfolioPart {
-  margin-top: 120px;
 }
 
 .Portfolio-image {
@@ -429,6 +419,7 @@ body {
   text-align: center;
   font-size: 32px;
   margin-bottom: 10px;
+  margin-top: 40px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -455,7 +446,6 @@ body {
   width: 100%;
   max-width: 1200px;
   margin: 0 auto;
-  margin-top: 80px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -464,7 +454,6 @@ body {
   flex-wrap: wrap;
   gap: 180px;
   justify-content: space-between;
-  margin-top: 120px;
 }
 
 .contact-info {
